@@ -1,4 +1,8 @@
 <p align="center">
+    
+ Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Square, PayPal, Paymill and Razorpay with support for more than 24 currencies. 
+    
+    
   <img src="https://raw.githubusercontent.com/chec/commercejs-examples/master/assets/logo.svg" width="500" height="100" />
 </p>
 <p align="center">
